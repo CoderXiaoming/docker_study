@@ -37,7 +37,7 @@ $ python manage.py create_admin
 $ python manage.py create_data
 ```
 
-### Run the Application
+### Run the Application TEST
 
 ```sh
 $ python manage.py runserver
